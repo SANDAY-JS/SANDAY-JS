@@ -24,8 +24,6 @@
   <br>
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://shields.io/badge/TypeScript%20-%233059be.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <br>   
   
@@ -33,6 +31,8 @@
   <br>
   ![React](https://shields.io/badge/React.js%20-%23FAFAFA.svg?style=for-the-badge&logo=react&logoColor=38b8cd)
   ![Next](https://shields.io/badge/Next.js%20-%23333333.svg?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Node.js](https://shields.io/badge/node.js%20-%23fafafa.svg?style=for-the-badge&logo=node.js&logoColor=#efefef)
+  ![Nest.js](https://shields.io/badge/nest.js%20-%23333333.svg?style=for-the-badge&logo=nestjs&logoColor=red)
   ![TypeScript](https://shields.io/badge/TypeScript%20-%233059be.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Firebase](https://shields.io/badge/Firebase%20-%23444444.svg?style=for-the-badge&logo=firebase&logoColor=f8a814)
   ![Tailwind.css](https://shields.io/badge/Tailwind.css%20-%23fafafa.svg?style=for-the-badge&logo=tailwindcss&logoColor=#efefef)

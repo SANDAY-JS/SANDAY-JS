@@ -62,8 +62,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Currently working as a private business owner
-- Personal website [link](https://www.sanhiguchi.com)
+- Currently working as a software engineer for a Japanese company
 
 <br><br>
 

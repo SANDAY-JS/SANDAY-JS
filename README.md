@@ -35,6 +35,7 @@
   ![Node.js](https://shields.io/badge/node.js%20-%23fafafa.svg?style=for-the-badge&logo=node.js&logoColor=#efefef)
   ![Nest.js](https://shields.io/badge/nest.js%20-%23333333.svg?style=for-the-badge&logo=nestjs&logoColor=red)
   ![TypeScript](https://shields.io/badge/TypeScript%20-%233059be.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![SpringBoot](https://shields.io/badge/springboot%20-%23fafafa.svg?style=for-the-badge&logo=springboot&logoColor=#efefef)
   ![Firebase](https://shields.io/badge/Firebase%20-%23444444.svg?style=for-the-badge&logo=firebase&logoColor=f8a814)
   ![Supabase](https://shields.io/badge/Supabase%20-%23444444.svg?style=for-the-badge&logo=supabase&logoColor=6ad56a)
   ![Tailwind.css](https://shields.io/badge/Tailwind.css%20-%23fafafa.svg?style=for-the-badge&logo=tailwindcss&logoColor=#efefef)
